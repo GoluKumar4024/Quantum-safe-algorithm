@@ -67,8 +67,8 @@ def encrypt(plaintext, keys):
 if __name__ == '__main__':
     # plaintext = """I am golu kumar, and this is the messsage to be sent by me!! I am trying to broaden this message
     #             """
-    # plaintext="""  书、杂志等中区 别于图片的  正文，文字材料 """
-    plaintext=""" गग गडड जजजज    जजजजज जज"""
+    plaintext="""  书、杂志等中区 别于图片的  正文，文字材料 """
+    # plaintext = """ गग गडड जजजज    जजजजज जज """
     print(
         "PLAINTEXT =======================================================================================================")
     print(plaintext)
